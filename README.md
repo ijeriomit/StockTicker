@@ -1,0 +1,2 @@
+# StockTicker
+Stock price simulator
